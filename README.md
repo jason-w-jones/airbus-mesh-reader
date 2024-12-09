@@ -4,7 +4,7 @@ This is a simple Python code to read CFD mesh formats from Airbus using the HDF 
 
 These codes were designed to be used by colleagues with little Python experience so they have been kept simple on purpose.
 
-These codes rely on a few Python modules listed in `requirements.txt`.
+They rely on a few Python modules listed in `requirements.txt`.
 
 To get started, we need to create the Python environment:
 
